@@ -17,6 +17,10 @@ margin-right: auto;
 margin-left: auto;
 }
 
-#edu {
-    text-align: center;
+body {
+    background-color: rgb(199, 222, 242);
+}
+
+.card {
+    background-color: rgb(199, 222, 242);
 }
