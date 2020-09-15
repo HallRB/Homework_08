@@ -1,0 +1,22 @@
+#aboutMePic {
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.image {
+    background-color: rgb(215, 197, 152);
+    border: rgb(63, 33, 19);
+border-style: inset;
+border-width: 25px;
+width: 450px;
+align-items: center;
+margin-right: auto;
+margin-left: auto;
+}
+
+#edu {
+    text-align: center;
+}
