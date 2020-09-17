@@ -41,3 +41,16 @@ body {
 .navbar-menu {
     background-color: rgb(92, 83, 69);
 }
+
+.title {
+    color: white;
+}
+
+span {
+    color: white;
+    font-size: larger;
+}
+
+.box{
+    font-size: 25px;
+}
